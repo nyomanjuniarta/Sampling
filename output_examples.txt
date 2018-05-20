@@ -1,0 +1,29 @@
+chosen : 7 . [{'b', 'a', 'c'}, {'b', 'a', 'c'}, {'b', 'a', 'c'}]
+Lss [{1}, {2}]
+======i 1
+p 1
+p == index
+directly accept {'b', 'c'}
+======i 2
+p 2
+p == index
+directly accept set()
+======i 3
+p 2
+p != index
+try {'a', 'c'}
+check with index 2
+reject {'a', 'c'}
+try {'b', 'a', 'c'}
+check with index 2
+reject {'b', 'a', 'c'}
+try {'b', 'a'}
+check with index 2
+reject {'b', 'a'}
+try {'b', 'a', 'c'}
+check with index 2
+reject {'b', 'a', 'c'}
+try set()
+accept set()
+uniformly chosen subsequence : [{'b', 'c'}]
+

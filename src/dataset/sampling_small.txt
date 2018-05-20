@@ -1,0 +1,20 @@
+d a b -1 c b -1 d -1 -2
+c a b -1 -2
+d b -1 a -1 d -1 -2
+a -1 a -1 c -1 -2
+c -1 -2
+f -1 -2
+a -1 c -1 e f -1 -2
+a b -1 c a -1 d b -1 -2
+b -1 -2
+c -1 c a -1 c -1 -2
+a -1 d a -1 c a -1 d b -1 -2
+a -1 a -1 b -1 b -1 -2
+a b -1 c a -1 d -1 -2
+b -1 a -1 b -1 -2
+a -1 d -1 c -1 b -1 -2
+a -1 d a b -1 c a b -1 d b -1 -2
+d b -1 c a b -1 d b -1 -2
+a -1 -2
+a -1 d a b -1 a -1 d -1 -2
+b -1 c -1 -2
